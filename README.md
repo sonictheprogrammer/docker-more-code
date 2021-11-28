@@ -1,6 +1,6 @@
-make sure you read this file
+# make sure you read this file
 or your dumb.
-#what is this made in?
+# what is this made in?
 made in sass javascript, typescript, kotlin, c++ dockerfile CSS. HTML, and java.
 ## should i download this? 
 no. you will have a big pile of junk code. this is test about coding. so read at your own risk!
