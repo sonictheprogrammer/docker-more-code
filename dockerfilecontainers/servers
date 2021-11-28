@@ -1,0 +1,6 @@
+FROM node
+
+ADD ../../src/SassFiles.joke%20files /app/
+WORKDIR /app
+RUN ["npm", "i"]
+CMD ["node", "/app/index.js"]
