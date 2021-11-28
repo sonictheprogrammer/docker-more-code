@@ -1,4 +1,4 @@
-#make sure you read this file
+make sure you read this file
 or your dumb.
 #what is this made in?
 made in sass javascript, typescript, kotlin, c++ dockerfile CSS. HTML, and java.
