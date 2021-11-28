@@ -12,5 +12,7 @@ JS KOTLIN AND TS are for servers to run for it.
 sass and CSS is a joke. nothing is working in the joke file.
 java also have jokes but only 1. the rest of java files are not jokes but also it's not gonna be working in here because my java codes are unsupported.
 HTML is useless for the code to run it. but it's only for running stuff too.
-dockerfile is for the containers of it to run but there nothing more to tell about. goodbye!
-## Thanks for Reading This File Lol.
+dockerfile is for the containers of it to run
+c/c++ files don't work here. but theres nothing more to say! goodbye!
+# Thanks for reading the file lol.
+
