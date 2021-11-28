@@ -1,0 +1,13 @@
+try {
+        boolean complete = textComponent.print();
+        if (complete) {
+        /* show a success message  */
+        ...
+        } else {
+        /*show a message indicating that printing was cancelled */
+        ...
+        }
+        } catch (PrinterException pe) {
+        /* Printing failed, report to the user */
+        ...
+        }
