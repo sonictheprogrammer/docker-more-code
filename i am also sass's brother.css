@@ -1,0 +1,16 @@
+/* pooopy lol */
+
+.trash
+@extend  %message-shared
+border-color: blue($color)
+/* i trashed into a can but the color says the half life icon */
+
+.fard
+@extend  %message-shared
+border-color: green
+/* fard */
+
+.memefrog
+@extend % message-shared
+border- color: white green
+/* what. funny frog */
