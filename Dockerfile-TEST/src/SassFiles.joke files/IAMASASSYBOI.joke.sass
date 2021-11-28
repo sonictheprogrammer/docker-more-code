@@ -1,0 +1,37 @@
+/* This is what happens if you want to die because of code = white = code death */
+%message-shared
+  border: 1px solid #ccc
+  padding: 10px
+  color: #333
+
+
+// i want to code in scratch not this hard code
+%equal-heights
+  display: flex
+  flex-wrap: wrap
+
+
+.message
+  @extend %message-shared
+
+
+.success
+  @extend %message-shared
+  border-color: green
+
+
+.error
+  @extend %message-shared
+  border-color: red
+
+
+.warning
+  @extend %message-shared
+  border-color: red
+  /* ???? i farded lol */
+
+
+  .trash
+    @extend  %message-shared
+    border-color: blue($color)
+    /* i trashed into a can but the color says the half life icon */
